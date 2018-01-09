@@ -2,6 +2,8 @@
 
 > {{ description }}
 
+:rocket: Skeleton generated with Vue-CLI using template [vuejs-template-plugin](https://github.com/mazipan/vuejs-template-plugin)
+
 ## Build Setup
 
 ``` bash
