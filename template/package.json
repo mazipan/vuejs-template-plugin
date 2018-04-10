@@ -31,6 +31,7 @@
     "es6-promise": "^4.2.2",
     "eslint": "^4.15.0",
     "eslint-plugin-vue": "4.2.0",
+    "extract-text-webpack-plugin": "^3.0.2",
     "jest": "^22.1.1",
     "vue-jest": "^1.4.0",
     "node-sass": "^4.7.2",
